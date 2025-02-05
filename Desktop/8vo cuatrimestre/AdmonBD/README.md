@@ -9,5 +9,5 @@ en este repositorio se encuentra el script de la clase de administración de bas
 5.Monitoreo
 6.Automatizacion de tareas
 
-![administacion de base de datos](../imagenes/imgadmon.jpg)
+![administacion de base de datos](./imagenes/imgadmon.jpg)
 
